@@ -1,0 +1,22 @@
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\bin\Debug\lb_12_bd.exe.config
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\bin\Debug\lb_12_bd.exe
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\bin\Debug\lb_12_bd.pdb
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.csprojAssemblyReference.cache
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.Form1.resources
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.Properties.Resources.resources
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.csproj.GenerateResource.cache
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.csproj.CoreCompileInputs.cache
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.exe
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.pdb
+D:\УМК_МДК.11.01 ТРиЗБД\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.Form2.resources
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\bin\Debug\lb_12_bd.exe.config
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\bin\Debug\lb_12_bd.exe
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\bin\Debug\lb_12_bd.pdb
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.csprojAssemblyReference.cache
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.Form1.resources
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.Form2.resources
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.Properties.Resources.resources
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.csproj.GenerateResource.cache
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.csproj.CoreCompileInputs.cache
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.exe
+C:\Users\ip521-20\source\repos\lb_12_bd\lb_12_bd\obj\Debug\lb_12_bd.pdb
